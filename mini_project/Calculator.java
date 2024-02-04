@@ -22,7 +22,7 @@ public class Calculator {
           continue;
         }
         processCalculation(sc, num);
-        sc.nextLine();
+        sc.nextLine(); // 버퍼 비우기
       }
     }
     System.out.println("계산기를 종료합니다.");
@@ -64,6 +64,8 @@ public class Calculator {
       case 4:
         divideNum(num1, num2);
         break;
+      default:
+        System.out.println("메뉴를 잘못 선택했습니다.");
     }
   }
 
