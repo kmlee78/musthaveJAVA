@@ -23,7 +23,7 @@ class Student2 {
   }
 }
 
-public class PrivateUse {
+public class Ex04_PrivateUse {
 
   public static void main(String[] args) {
     Student1 student1 = new Student1();

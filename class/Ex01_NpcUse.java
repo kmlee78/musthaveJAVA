@@ -8,7 +8,7 @@ class Npc {
   }
 }
 
-public class NpcUse {
+public class Ex01_NpcUse {
 
   public static void main(String[] args) {
     Npc npc = new Npc();

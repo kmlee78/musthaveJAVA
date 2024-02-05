@@ -13,7 +13,7 @@ class Calc {
   }
 }
 
-public class Overloading {
+public class Ex02_Overloading {
 
   public static void main(String[] args) {
     Calc calc = new Calc();

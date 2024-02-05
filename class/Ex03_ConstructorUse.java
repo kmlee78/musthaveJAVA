@@ -15,7 +15,7 @@ class Book {
   }
 }
 
-public class ConstructorUse {
+public class Ex03_ConstructorUse {
 
   public static void main(String[] args) {
     Book book1 = new Book(); // 디폴트 생성자 사용
