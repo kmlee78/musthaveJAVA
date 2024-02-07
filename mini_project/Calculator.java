@@ -28,6 +28,7 @@ public class Calculator {
     System.out.println("계산기를 종료합니다.");
   }
 
+  // static이 붙어 있는 메서드에서 호출할 메서드에도 static이 붙어 있어야 한다.
   public static void showMenu() {
     System.out.println("메뉴를 선택하세요.");
     System.out.println("1.더하기");
@@ -37,6 +38,7 @@ public class Calculator {
     System.out.println("0.끝내기");
   }
 
+  // static이 붙어 있는 메서드에서 호출할 메서드에도 static이 붙어 있어야 한다.
   public static boolean checkNum(char ch) {
     if (ch >= '0' && ch <= '9') {
       return true;
@@ -45,6 +47,7 @@ public class Calculator {
     }
   }
 
+  // static이 붙어 있는 메서드에서 호출할 메서드에도 static이 붙어 있어야 한다.
   public static void processCalculation(Scanner sc, int num) {
     System.out.print("첫 번째 숫자:");
     int num1 = sc.nextInt();
