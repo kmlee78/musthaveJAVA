@@ -11,3 +11,7 @@
 [5. String 클래스](https://github.com/kmlee78/musthaveJAVA/tree/main/string)
 
 [6. 배열](https://github.com/kmlee78/musthaveJAVA/tree/main/array)
+
+[7. 예외 처리](https://github.com/kmlee78/musthaveJAVA/tree/main/exception)
+
+[8. 자바의 기본 클래스](https://github.com/kmlee78/musthaveJAVA/tree/main/object_class)
