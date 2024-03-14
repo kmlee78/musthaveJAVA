@@ -17,3 +17,5 @@
 [8. 자바의 기본 클래스](https://github.com/kmlee78/musthaveJAVA/tree/main/object_class)
 
 [9. 열거형, 가변 인수, 어노테이션](https://github.com/kmlee78/musthaveJAVA/tree/main/etc)
+
+[10. 제네릭](https://github.com/kmlee78/musthaveJAVA/tree/main/generic)
