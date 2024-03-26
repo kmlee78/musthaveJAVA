@@ -19,3 +19,5 @@
 [9. 열거형, 가변 인수, 어노테이션](https://github.com/kmlee78/musthaveJAVA/tree/main/etc)
 
 [10. 제네릭](https://github.com/kmlee78/musthaveJAVA/tree/main/generic)
+
+[11. 컬렉션 프레임워크](https://github.com/kmlee78/musthaveJAVA/tree/main/collection_framework)
